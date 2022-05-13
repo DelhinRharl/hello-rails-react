@@ -1,4 +1,4 @@
-# "Hello world" project with rails-react gem
+# "Hello Rails-React"
 
 
 ## Built With
